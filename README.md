@@ -2,8 +2,6 @@
 
 ## Projet : Système de Gestion de Réservations Hôtelières
 
-**Réalisé par  :** BOULGHA ABDELILLAH
-
 **Technologies évaluées :**  
 REST API • SOAP • GraphQL • gRPC
 
